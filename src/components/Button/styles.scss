@@ -1,0 +1,30 @@
+$primary-color: #FF6064;
+$body-font-size: 16px;
+$global-border-radius: 4px;
+.button {
+	background-color: $primary-color;
+	top: 0;
+	padding: 10px 20px;
+	line-height: 24px;
+	color: #fff;
+	position: relative;
+	font-size: $body-font-size;
+	font-weight: 500;
+	display: inline-block;
+	cursor: pointer;
+	overflow: hidden;
+	border: none;
+	border-radius: $global-border-radius;
+	box-shadow: 0 4px 12px rgba($primary-color, 0.15);
+}
+
+.md-22 {
+	height: 22px;
+}
+
+a {
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+	text-decoration: none;
+}
