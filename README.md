@@ -14,6 +14,8 @@ ES6, ReactJS, Redux, SCSS, Material.
 - Option to see more images of the place.
 - Button to the booking page. This will redirect you to the `Holidu` booking site as I am consuming holidu's Api to fetch all the data in order to build this application.
 
+- (Please note, Rate and other detail may defer from the Holidu website, this is just an example website.)
+
 ## Run this application on you local:
 - Step 1: Clone the repository using this link: `https://github.com/Rakhisharma/book-holidays.git`
 - Step 2: Go to the the repo folder on your local system using command `cd book-holidays`
