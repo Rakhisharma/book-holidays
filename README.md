@@ -1,6 +1,7 @@
 ### Application to Book Holidays
+--------------------------------
 
-Live application can be found [here](https://rakhisharma.github.io/book-holidays/)
+# Live application can be found [here](https://rakhisharma.github.io/book-holidays/)
 
 ## Technology used: 
 ES6, ReactJS, Redux, SCSS, Material.
@@ -14,7 +15,9 @@ ES6, ReactJS, Redux, SCSS, Material.
 - Option to see more images of the place.
 - Button to the booking page. This will redirect you to the `Holidu` booking site as I am consuming holidu's Api to fetch all the data in order to build this application.
 
-## Run this application on you local:
+- (Please note, Rate and other detail may defer from the Holidu website, this is just an example website.)
+
+## Run this application in your local system:
 - Step 1: Clone the repository using this link: `https://github.com/Rakhisharma/book-holidays.git`
 - Step 2: Go to the the repo folder on your local system using command `cd book-holidays`
 - Step 3: Install all the dependency using command `npm install`
