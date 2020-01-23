@@ -8,7 +8,7 @@ export const formatProperties = apartments => {
 			url: `https://www.holidu.com${x.detailsLink}`,
 			location: x.location.name,
 			currency: x.price.currency,
-			price: x.price.total,
+			price: x.price.daily,
 			space: x.details.shortName.join(" ")
 		}));
 	}
