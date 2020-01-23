@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2be7caa54a5a2100c05302671a64481f",
+    "revision": "73a532038dc09cb7c3a348302d4e10a8",
     "url": "/book-holidays/index.html"
   },
   {
-    "revision": "8eb55e412a9cfe68fa72",
+    "revision": "a622bfbd01c85bee6fc0",
     "url": "/book-holidays/static/css/main.32bac123.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/book-holidays/static/js/2.48feab59.chunk.js.LICENSE"
   },
   {
-    "revision": "8eb55e412a9cfe68fa72",
-    "url": "/book-holidays/static/js/main.a7623c9a.chunk.js"
+    "revision": "a622bfbd01c85bee6fc0",
+    "url": "/book-holidays/static/js/main.76fc3326.chunk.js"
   },
   {
     "revision": "e9c324580bb79a71ec76",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/book-holidays/static/css/main.32bac123.chunk.css",
-    "main.js": "/book-holidays/static/js/main.a7623c9a.chunk.js",
-    "main.js.map": "/book-holidays/static/js/main.a7623c9a.chunk.js.map",
+    "main.js": "/book-holidays/static/js/main.76fc3326.chunk.js",
+    "main.js.map": "/book-holidays/static/js/main.76fc3326.chunk.js.map",
     "runtime-main.js": "/book-holidays/static/js/runtime-main.fb15fd07.js",
     "runtime-main.js.map": "/book-holidays/static/js/runtime-main.fb15fd07.js.map",
     "static/js/2.48feab59.chunk.js": "/book-holidays/static/js/2.48feab59.chunk.js",
     "static/js/2.48feab59.chunk.js.map": "/book-holidays/static/js/2.48feab59.chunk.js.map",
     "index.html": "/book-holidays/index.html",
-    "precache-manifest.2b7c9974dab6167b4053555f943a2abb.js": "/book-holidays/precache-manifest.2b7c9974dab6167b4053555f943a2abb.js",
+    "precache-manifest.b5e9c41bd8af37a5666ada624930c763.js": "/book-holidays/precache-manifest.b5e9c41bd8af37a5666ada624930c763.js",
     "service-worker.js": "/book-holidays/service-worker.js",
     "static/css/main.32bac123.chunk.css.map": "/book-holidays/static/css/main.32bac123.chunk.css.map",
     "static/js/2.48feab59.chunk.js.LICENSE": "/book-holidays/static/js/2.48feab59.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fb15fd07.js",
     "static/js/2.48feab59.chunk.js",
     "static/css/main.32bac123.chunk.css",
-    "static/js/main.a7623c9a.chunk.js"
+    "static/js/main.76fc3326.chunk.js"
   ]
 }
