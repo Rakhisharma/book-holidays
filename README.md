@@ -17,7 +17,7 @@ ES6, ReactJS, Redux, SCSS, Material.
 
 - (Please note, Rate and other detail may defer from the Holidu website, this is just an example website.)
 
-## Run this application on you local:
+## Run this application in your local system:
 - Step 1: Clone the repository using this link: `https://github.com/Rakhisharma/book-holidays.git`
 - Step 2: Go to the the repo folder on your local system using command `cd book-holidays`
 - Step 3: Install all the dependency using command `npm install`
