@@ -1,4 +1,4 @@
-## Application to Book Holidays
+# Application to Book Holidays
 
 ### Live application can be found [here](https://rakhisharma.github.io/book-holidays/)
 
