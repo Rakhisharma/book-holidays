@@ -1,7 +1,7 @@
 ### Application to Book Holidays
 --------------------------------
 
-# Live application can be found [here](https://rakhisharma.github.io/book-holidays/)
+## Live application [here](https://rakhisharma.github.io/book-holidays/)
 
 ## Technology used: 
 ES6, ReactJS, Redux, SCSS, Material.
