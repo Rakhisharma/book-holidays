@@ -1,4 +1,4 @@
-### Application to Book Holidays
+### Web application to Book Holidays using React
 --------------------------------
 
 ## Live application [here](https://rakhisharma.github.io/book-holidays/)
